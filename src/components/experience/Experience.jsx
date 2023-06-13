@@ -25,7 +25,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Intermedio</small>
+                <small className='text-light'>Experimentado</small>
               </div>
             </article>
 
@@ -79,7 +79,7 @@ const Experience = () => {
               <FaCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>MongoDb</h4>
-                <small className='text-light'>Intermedio</small>
+                <small className='text-light'>Basico</small>
               </div>
             </article>
 
@@ -102,7 +102,7 @@ const Experience = () => {
             <article className="experience__details">
               <FaCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>PostgreSql</h4>
+                <h4>MySql</h4>
                 <small className='text-light'>Intermedio</small>
               </div>
             </article>

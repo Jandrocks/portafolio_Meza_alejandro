@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
@@ -12,23 +12,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Sitio Web Hooks',
-    github: 'https://github.com/Jandrocks/hook-app',
-    demo: 'https://github.com/'
+    title: 'App Transporte Santiago - REACT',
+    github: 'https://github.com/Jandrocks/transportSantiago02',
+    demo: 'https://transport-santiago.vercel.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Sitio Web Hooks2',
-    github: 'https://github.com/Jandrocks/hook-app',
-    demo: 'https://github.com/'
+    title: 'App GIFT - JavaScript',
+    github: 'https://github.com/Jandrocks/gift-js.github.io',
+    demo: 'https://gift-js.vercel.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Sitio Web Hooks3',
+    title: 'Sitio web Canciones - Java Spring Boot',
     github: 'https://github.com/Jandrocks/hook-app',
-    demo: 'https://github.com/'
+    demo: 'https://mercadolibre-js.vercel.app/'
   },
   {
     id: 4,
