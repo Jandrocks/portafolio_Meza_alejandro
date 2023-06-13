@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -33,9 +33,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Sitio Web Hooks4',
-    github: 'https://github.com/Jandrocks/hook-app',
-    demo: 'https://github.com/'
+    title: 'Sitio Web Animal-Lovers - WordPress',
+    github: 'https://www.animal-lovers.cl/',
+    demo: 'https://www.animal-lovers.cl/'
   },
   {
     id: 5,
