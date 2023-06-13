@@ -41,8 +41,8 @@ const About = () => {
           </div>
 
           <p>
-          Ingeniero Informático enfocado en el análisis e implementación de software,  entusiasta de la tecnología y la programación, experiencia trabajado con  HTML, CSS, JavaScript, React, Linux, Oracle DB, PostgreSQL, Control-M, Git, metodologías ágiles. Muy motivado y con ganas de aprender.
-            </p>
+          Como entusiasta de la programación, estoy emocionado por iniciar mi primer empleo formal en este campo. Aunque soy nuevo en la programación, ya tengo experiencia en el área de tecnologías de la información (TI). He adquirido sólidos conocimientos en la gestión y análisis de sistemas, así como habilidades técnicas en varios lenguajes de programación. Mi pasión por la tecnología y el desarrollo de software me motiva a aprender y crecer constantemente en este emocionante ámbito.
+          </p>
 
             <a href="#contact" className='btn btn-primary'>Hablemos</a>
         </div>
