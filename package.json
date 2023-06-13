@@ -14,7 +14,7 @@
     "swiper": "^8.4.4",
     "web-vitals": "^3.0.4"
   },
-  "homepage": "localhost",
+  "homepage": "https://portafolio-meza-alejandro.vercel.app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
