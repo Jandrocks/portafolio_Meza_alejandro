@@ -8,7 +8,7 @@ const HeaderSocial = () => {
     <div className='header__socials'>
         <a href="https://www.linkedin.com/in/alejandro-meza-chac%C3%B3n-071445145"><BsLinkedin /></a>
         <a href="https://github.com/Jandrocks"><BsGithub /></a>
-        <a href="https://web.whatsapp.com/"><BsWhatsapp /></a>
+        <a href="https://api.whatsapp.com/send/?phone=56979158827&text=Hola+Alejandro+Meza&type=phone_number&app_absent=0"><BsWhatsapp /></a>
 
 
     </div>
