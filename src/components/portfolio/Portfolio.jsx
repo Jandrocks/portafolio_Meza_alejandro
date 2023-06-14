@@ -5,7 +5,7 @@ import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/portfolio6.png'
 
 
 const data = [
@@ -40,15 +40,15 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Sitio Web Hooks5',
-    github: 'https://github.com/Jandrocks/hook-app',
-    demo: 'https://github.com/'
+    title: 'Sitio Web Ingenieria de Caminos - WordPress',
+    github: 'https://ingenieriadecaminos.cl/',
+    demo: 'https://ingenieriadecaminos.cl/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Sitio Web Hooks6',
-    github: 'https://github.com/Jandrocks/hook-app',
+    title: 'App Recetas | Stock - NodeJs - Typescript',
+    github: 'https://github.com/Jandrocks/',
     demo: 'https://github.com/'
   }
 ]
